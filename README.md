@@ -1,2 +1,1 @@
-# mintAuth
-Mint Multi Auth
+# multAuth minting of nfts
